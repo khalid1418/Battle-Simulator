@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87270c4be796d094fb944fc8e588cd0b, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  configs:
+  - TeamAProperties:
+      HP: 100
+      Attack: 10
+      AttackSpeed: 2
+      AttackRange: 2
+      MovementSpeed: 2
+    TeamBProperties:
+      HP: 100
+      Attack: 10
+      AttackSpeed: 2
+      AttackRange: 2
+      MovementSpeed: 2
+  - TeamAProperties:
+      HP: 50
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+    TeamBProperties:
+      HP: 60
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+  - TeamAProperties:
+      HP: 50
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+    TeamBProperties:
+      HP: 60
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+  - TeamAProperties:
+      HP: 50
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+    TeamBProperties:
+      HP: 60
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+  - TeamAProperties:
+      HP: 50
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+    TeamBProperties:
+      HP: 60
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+  - TeamAProperties:
+      HP: 50
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+    TeamBProperties:
+      HP: 60
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+  - TeamAProperties:
+      HP: 50
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
+    TeamBProperties:
+      HP: 60
+      Attack: 1
+      AttackSpeed: 1
+      AttackRange: 1
+      MovementSpeed: 1
