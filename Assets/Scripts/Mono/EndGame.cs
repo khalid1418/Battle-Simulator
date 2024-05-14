@@ -17,13 +17,6 @@ public class EndGame : MonoBehaviour
     private GameManagerAuthoring gameManagerAuthoring;
 
 
-    private void Awake()
-    {
-        gameManagerAuthoring = FindAnyObjectByType<GameManagerAuthoring>();
-        Debug.Log(SubScene.AllSubScenes.Count);
-        //gameManagerAuthoring.selectedIndex = 1;
-
-    }
     void Start()
     {
       TargetFinderSystem targetFinderSystem=  World.DefaultGameObjectInjectionWorld.GetExistingSystemManaged<TargetFinderSystem>();
